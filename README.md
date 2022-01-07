@@ -1,6 +1,6 @@
 # Supervised, Self Supervised and Semi-supervised Deep Learning Approaches for Image Classification
 
-This repository contains major project submission for partial fulfillment of Deep Learning course at BITS Pilani Goa Campus. In this work, we :
+This repository contains Major Project submission, titled: Supervised, Self Supervised and Semi-supervised Deep Learning Approaches for Image Classification, for partial fulfillment of Deep Learning course[CS F425] at BITS Pilani Goa Campus. In this work, we :
 
 * Explored 3 deep learning approaches for classification:
     * supervised deep learning approach
@@ -12,4 +12,6 @@ This repository contains major project submission for partial fulfillment of Dee
 * Performed ablation study of varying ratios of labelled and unlabelled data on all three models.
 * Produced an increment in accuracy of prediction of WRN-45-2 from 72 %(supervised) to 75 %(semi-supervised).
 * Inferred that semi-supervised approach produces better performance than both of individual supervised and self-supervised approach.
+
+
 
