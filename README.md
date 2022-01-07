@@ -6,7 +6,7 @@ This repository contains Major Project submission, titled: __Self Supervised and
 
 * Explored 3 deep learning approaches for classification:
     * supervised deep learning approach
-    * constrastive self-supervised learning using Barlow Twins loss
+    * constrastive self-supervised learning approach using Barlow Twins loss
     * semi-supervised deep learning approach using pseudo labelling technique.
 * Compared the performances of three convolutional neural network models: ConvNet, ResNet18 and our own WideResNet(WRN-45-2) through three learning approaches.
 * Used STL-10 dataset exclusively.[Link](https://cs.stanford.edu/~acoates/stl10/) 
