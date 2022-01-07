@@ -14,13 +14,3 @@ This repository contains Major Project submission, titled: __Supervised, Self Su
 * Performed ablation study of varying ratios of labelled and unlabelled data on all three models.
 * Produced an increment in accuracy of prediction of WRN-45-2 from 72 %(supervised) to 75 %(semi-supervised).
 * Inferred that semi-supervised approach produces better performance than both of individual supervised and self-supervised approach.
-
-## Requirements
-1. Python
-2. Sci-kit Learn
-3. PyTorch
-4. Tensorboard
-5. Numpy
-6. PIL
-
-
